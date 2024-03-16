@@ -1,4 +1,4 @@
-/*primer promama en c++
+/*primer progrma en c++
 */
 
 #include <iostream>
